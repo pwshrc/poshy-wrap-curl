@@ -1,0 +1,3 @@
+curl
+poshy-wrap
+pwshrc
